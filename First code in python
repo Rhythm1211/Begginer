@@ -1,0 +1,14 @@
+a="19"
+b= "98"
+print("My birth year is", a+b)
+add= int(a)+int(b)
+print(add)
+add= int(a)+int(b)
+print(add)
+sub= int(a)-int(b)
+print(sub)
+mul=int(a)*int(b)
+print(mul)
+dev=int(a)/int(b)
+print(div)
+
