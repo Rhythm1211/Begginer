@@ -10,5 +10,5 @@ print(sub)
 mul=int(a)*int(b)
 print(mul)
 dev=int(a)/int(b)
-print(div)
+print(dev)
 
